@@ -1,1 +1,0 @@
-var json_LANDMARK_3 = {"type":"FeatureCollection","name":"LANDMARK_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama":"Balai Desa Buntar"},"geometry":{"type":"Point","coordinates":[110.964534071597328,-7.53641404491579]}}]}
